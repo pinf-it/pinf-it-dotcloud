@@ -1,11 +1,15 @@
 {
+    "extends": [
+        "freedom-platform-stack-dotcloud"
+    ],
 	"name": "pinf-it-dotcloud",
 	"version": "0.1.0",
 	"pm": "sm",
-    "dependencies": {
-    	"connect": "~2.7.2"
+    "publish": true,
+    "devMappings": {
+        "freedom-platform-stack-dotcloud": "github.com/freedom-platform/stack-dotcloud/~0.1.0"
     },
-    "mappings": {
-    	"pinf-it": "github.com/pinf-it/pinf-it-nodejs/~0.1.0"
+    "scripts": {
+        "install": "make install"
     }
 }

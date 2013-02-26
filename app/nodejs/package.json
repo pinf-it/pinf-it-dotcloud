@@ -1,0 +1,15 @@
+{
+	"name": "pinf-it-dotcloud-app-nodejs",
+	"version": "0.1.0",
+	"pm": "sm",
+    "dependencies": {
+    	"connect": "~2.7.2"
+    },
+    "mappings": {
+    	"pinf-it": "github.com/pinf-it/pinf-it-nodejs/~0.1.0",
+    	"default-responder": ["symlink", "$__DIRNAME/default"]
+    },
+    "scripts": {
+    	"run": "node ./server.js"
+    }
+}

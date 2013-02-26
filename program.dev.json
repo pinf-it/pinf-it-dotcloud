@@ -1,0 +1,12 @@
+{
+	"config": {
+		"github.com/pinf-it/pinf-it-server/0": {
+			"users": {
+				"test": "test-token"
+			}
+		},
+		"github.com/freedom-platform/stack-dotcloud/0": {
+			"name": "test1"
+		}
+	}
+}

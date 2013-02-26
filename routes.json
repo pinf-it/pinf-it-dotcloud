@@ -1,0 +1,7 @@
+[
+	["/^\\/[^\\/]*\\/$/", {
+		"pointer": "github.com/pinf-it/pinf-it-test-packages/~0.1.2",
+		"path": "helloworld-node-connect"
+	}],
+	"default-responder"
+]

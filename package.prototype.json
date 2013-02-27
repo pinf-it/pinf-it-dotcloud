@@ -1,0 +1,6 @@
+{
+	"scripts": {
+		"run": "sm --inline run --dir $__DIRNAME",
+		"deploy": "sm --inline deploy --dir $__DIRNAME"
+	}
+}

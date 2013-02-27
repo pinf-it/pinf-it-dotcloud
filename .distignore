@@ -1,4 +1,5 @@
 .*
 /dist/
 node_modules/
-program.dev.json
+/program.dev.json
+/package.prototype.json

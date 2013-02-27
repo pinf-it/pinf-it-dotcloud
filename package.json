@@ -5,11 +5,12 @@
     "name": "pinf-it-dotcloud",
     "version": "0.1.1",
     "pm": "sm",
-    "publish": true,
     "devMappings": {
         "freedom-platform-stack-dotcloud": "github.com/freedom-platform/stack-dotcloud/~0.1.0"
     },
     "scripts": {
-        "install": "make install"
+        "install": "make install",
+        "run": "./.sm/bin/run",
+        "deploy": "./.sm/bin/deploy"
     }
 }

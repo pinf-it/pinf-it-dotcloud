@@ -3,7 +3,7 @@
         "freedom-platform-stack-dotcloud"
     ],
     "name": "pinf-it-dotcloud",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "pm": "sm",
     "devMappings": {
         "freedom-platform-stack-dotcloud": "github.com/freedom-platform/stack-dotcloud/~0.1.0"

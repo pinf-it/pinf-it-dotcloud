@@ -1,0 +1,92 @@
+{
+    "#": "To update this file based on the current dependency tree run: `sm save`",
+    "packages": {
+        "connect": {
+            "pointer": "http://registry.npmjs.org/connect/-/connect-2.7.2.tgz"
+        },
+        "connect/buffer-crc32": {
+            "pointer": "http://registry.npmjs.org/buffer-crc32/-/buffer-crc32-0.1.1.tgz"
+        },
+        "connect/bytes": {
+            "pointer": "http://registry.npmjs.org/bytes/-/bytes-0.1.0.tgz"
+        },
+        "connect/cookie": {
+            "pointer": "http://registry.npmjs.org/cookie/-/cookie-0.0.5.tgz"
+        },
+        "connect/cookie-signature": {
+            "pointer": "http://registry.npmjs.org/cookie-signature/-/cookie-signature-0.0.1.tgz"
+        },
+        "connect/debug": {
+            "pointer": "http://registry.npmjs.org/debug/-/debug-0.7.2.tgz"
+        },
+        "connect/formidable": {
+            "pointer": "http://registry.npmjs.org/formidable/-/formidable-1.0.11.tgz"
+        },
+        "connect/fresh": {
+            "pointer": "http://registry.npmjs.org/fresh/-/fresh-0.1.0.tgz"
+        },
+        "connect/pause": {
+            "pointer": "http://registry.npmjs.org/pause/-/pause-0.0.1.tgz"
+        },
+        "connect/qs": {
+            "pointer": "http://registry.npmjs.org/qs/-/qs-0.5.1.tgz"
+        },
+        "connect/send": {
+            "pointer": "http://registry.npmjs.org/send/-/send-0.1.0.tgz"
+        },
+        "connect/send/debug": {
+            "pointer": "http://registry.npmjs.org/debug/-/debug-0.7.2.tgz"
+        },
+        "connect/send/fresh": {
+            "pointer": "http://registry.npmjs.org/fresh/-/fresh-0.1.0.tgz"
+        },
+        "connect/send/mime": {
+            "pointer": "http://registry.npmjs.org/mime/-/mime-1.2.6.tgz"
+        },
+        "connect/send/range-parser": {
+            "pointer": "http://registry.npmjs.org/range-parser/-/range-parser-0.0.4.tgz"
+        },
+        "freedom-platform-stack-dotcloud": {
+            "pointer": "https://github.com/freedom-platform/stack-dotcloud/commit/9bb458a649d75cf4b4a0cb45f9c966b07c431134"
+        },
+        "freedom-platform-stack-dotcloud/commander": {
+            "pointer": "http://registry.npmjs.org/commander/-/commander-1.1.1.tgz"
+        },
+        "freedom-platform-stack-dotcloud/commander/keypress": {
+            "pointer": "http://registry.npmjs.org/keypress/-/keypress-0.1.0.tgz"
+        },
+        "freedom-platform-stack-dotcloud/sm": {
+            "pointer": "http://registry.npmjs.org/sm/-/sm-0.3.6-pre.60.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs": {
+            "pointer": "http://registry.npmjs.org/yamljs/-/yamljs-0.1.4.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs/argparse": {
+            "pointer": "http://registry.npmjs.org/argparse/-/argparse-0.1.12.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs/argparse/underscore": {
+            "pointer": "http://registry.npmjs.org/underscore/-/underscore-1.4.4.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs/argparse/underscore.string": {
+            "pointer": "http://registry.npmjs.org/underscore.string/-/underscore.string-2.3.1.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs/glob": {
+            "pointer": "http://registry.npmjs.org/glob/-/glob-3.1.21.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs/glob/graceful-fs": {
+            "pointer": "http://registry.npmjs.org/graceful-fs/-/graceful-fs-1.2.0.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs/glob/inherits": {
+            "pointer": "http://registry.npmjs.org/inherits/-/inherits-1.0.0.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs/glob/minimatch": {
+            "pointer": "http://registry.npmjs.org/minimatch/-/minimatch-0.2.11.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs/glob/minimatch/lru-cache": {
+            "pointer": "http://registry.npmjs.org/lru-cache/-/lru-cache-2.2.2.tgz"
+        },
+        "freedom-platform-stack-dotcloud/yamljs/glob/minimatch/sigmund": {
+            "pointer": "http://registry.npmjs.org/sigmund/-/sigmund-1.0.0.tgz"
+        }
+    }
+}

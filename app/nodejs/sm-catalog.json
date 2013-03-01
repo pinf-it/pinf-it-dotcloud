@@ -188,7 +188,7 @@
             "pointer": "http://registry.npmjs.org/wrench/-/wrench-1.4.4.tgz"
         },
         "pinf-it/sm": {
-            "pointer": "https://github.com/sourcemint/sm/commit/e99223f774a14f4a54ec2ce20e64fa1200196747"
+            "pointer": "https://github.com/sourcemint/sm/commit/4fb19c3d6c50a4ba101730c0326da8ed45bb0f87"
         }
     }
 }

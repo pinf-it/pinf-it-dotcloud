@@ -1,0 +1,194 @@
+{
+    "#": "To update this file based on the current dependency tree run: `sm save`",
+    "packages": {
+        "connect": {
+            "pointer": "http://registry.npmjs.org/connect/-/connect-2.7.3.tgz"
+        },
+        "connect/buffer-crc32": {
+            "pointer": "http://registry.npmjs.org/buffer-crc32/-/buffer-crc32-0.1.1.tgz"
+        },
+        "connect/bytes": {
+            "pointer": "http://registry.npmjs.org/bytes/-/bytes-0.2.0.tgz"
+        },
+        "connect/cookie": {
+            "pointer": "http://registry.npmjs.org/cookie/-/cookie-0.0.5.tgz"
+        },
+        "connect/cookie-signature": {
+            "pointer": "http://registry.npmjs.org/cookie-signature/-/cookie-signature-0.0.1.tgz"
+        },
+        "connect/debug": {
+            "pointer": "http://registry.npmjs.org/debug/-/debug-0.7.2.tgz"
+        },
+        "connect/formidable": {
+            "pointer": "http://registry.npmjs.org/formidable/-/formidable-1.0.11.tgz"
+        },
+        "connect/fresh": {
+            "pointer": "http://registry.npmjs.org/fresh/-/fresh-0.1.0.tgz"
+        },
+        "connect/pause": {
+            "pointer": "http://registry.npmjs.org/pause/-/pause-0.0.1.tgz"
+        },
+        "connect/qs": {
+            "pointer": "http://registry.npmjs.org/qs/-/qs-0.5.1.tgz"
+        },
+        "connect/send": {
+            "pointer": "http://registry.npmjs.org/send/-/send-0.1.0.tgz"
+        },
+        "connect/send/debug": {
+            "pointer": "http://registry.npmjs.org/debug/-/debug-0.7.2.tgz"
+        },
+        "connect/send/fresh": {
+            "pointer": "http://registry.npmjs.org/fresh/-/fresh-0.1.0.tgz"
+        },
+        "connect/send/mime": {
+            "pointer": "http://registry.npmjs.org/mime/-/mime-1.2.6.tgz"
+        },
+        "connect/send/range-parser": {
+            "pointer": "http://registry.npmjs.org/range-parser/-/range-parser-0.0.4.tgz"
+        },
+        "default-responder": {
+            "pointer": "/pinf/workspaces/github.com/pinf.it/pinf-it-dotcloud+0/app/nodejs/default"
+        },
+        "github.com+cadorn+private-websites+0.1.14": {
+            "pointer": "https://github.com/cadorn/private-websites/commit/f65907d1ef3658211514415a8b7e537944dc8e03"
+        },
+        "github.com+cadorn+private-websites+~0.1.0": {
+            "pointer": "https://github.com/cadorn/private-websites/commit/dcffc3bb68b032a6a3d3f2b153ebd367cdbc3f39"
+        },
+        "pinf-it": {
+            "pointer": "https://github.com/pinf-it/pinf-it-nodejs/commit/4b0d23324830d1f37643b0f58217eddf8939eb17"
+        },
+        "pinf-it/pinf-it-server": {
+            "pointer": "https://github.com/pinf-it/pinf-it-server/commit/7100c8d3322042af9572617341bad64906e1075e"
+        },
+        "pinf-it/pinf-it-server/debug": {
+            "pointer": "http://registry.npmjs.org/debug/-/debug-0.7.2.tgz"
+        },
+        "pinf-it/pinf-it-server/github.com+pinf-it+pinf-it-test-packages+0.1.12": {
+            "pointer": "https://github.com/pinf-it/pinf-it-test-packages/commit/18f16a102da66ba0363d7659a703f3ca4b6877b4"
+        },
+        "pinf-it/pinf-it-server/github.com+pinf-it+pinf-it-test-packages+~0.1.2": {
+            "pointer": "https://github.com/pinf-it/pinf-it-test-packages/commit/6cb3ac7425641066eeff5e89668218cf92a91fe6"
+        },
+        "pinf-it/pinf-it-server/pinf": {
+            "pointer": "http://registry.npmjs.org/pinf/-/pinf-0.2.14.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/deepmerge": {
+            "pointer": "http://registry.npmjs.org/deepmerge/-/deepmerge-0.2.5.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/fs-extra": {
+            "pointer": "http://registry.npmjs.org/fs-extra/-/fs-extra-0.3.2.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/fs-extra/jsonfile": {
+            "pointer": "http://registry.npmjs.org/jsonfile/-/jsonfile-0.0.1.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/fs-extra/mkdirp": {
+            "pointer": "http://registry.npmjs.org/mkdirp/-/mkdirp-0.3.4.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/fs-extra/ncp": {
+            "pointer": "http://registry.npmjs.org/ncp/-/ncp-0.2.6.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/fs-extra/rimraf": {
+            "pointer": "http://registry.npmjs.org/rimraf/-/rimraf-2.0.3.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/fs-extra/rimraf/graceful-fs": {
+            "pointer": "http://registry.npmjs.org/graceful-fs/-/graceful-fs-1.1.14.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/jsonlint": {
+            "pointer": "http://registry.npmjs.org/jsonlint/-/jsonlint-1.5.1.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/jsonlint/JSV": {
+            "pointer": "http://registry.npmjs.org/JSV/-/JSV-4.0.2.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/jsonlint/nomnom": {
+            "pointer": "http://registry.npmjs.org/nomnom/-/nomnom-1.5.3.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/jsonlint/nomnom/colors": {
+            "pointer": "http://registry.npmjs.org/colors/-/colors-0.5.1.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/jsonlint/nomnom/underscore": {
+            "pointer": "http://registry.npmjs.org/underscore/-/underscore-1.1.7.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/mappings": {
+            "pointer": "http://registry.npmjs.org/mappings/-/mappings-0.2.1.tgz"
+        },
+        "pinf-it/pinf-it-server/pinf/sm-util": {
+            "pointer": "http://registry.npmjs.org/sm-util/-/sm-util-0.1.10.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util": {
+            "pointer": "https://github.com/sourcemint/sm-util/commit/8ebc79df8d4349786eb16fb4883bd4129b30bb65"
+        },
+        "pinf-it/pinf-it-server/sm-util/console-trace": {
+            "pointer": "http://registry.npmjs.org/console-trace/-/console-trace-0.2.1.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/console-trace/callsite": {
+            "pointer": "http://registry.npmjs.org/callsite/-/callsite-0.0.2.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/deepmerge": {
+            "pointer": "http://registry.npmjs.org/deepmerge/-/deepmerge-0.2.5.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/fs-extra": {
+            "pointer": "http://registry.npmjs.org/fs-extra/-/fs-extra-0.5.0.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/fs-extra/jsonfile": {
+            "pointer": "http://registry.npmjs.org/jsonfile/-/jsonfile-0.0.1.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/fs-extra/mkdirp": {
+            "pointer": "http://registry.npmjs.org/mkdirp/-/mkdirp-0.3.4.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/fs-extra/ncp": {
+            "pointer": "http://registry.npmjs.org/ncp/-/ncp-0.2.6.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/fs-extra/rimraf": {
+            "pointer": "http://registry.npmjs.org/rimraf/-/rimraf-2.1.4.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/fs-extra/rimraf/graceful-fs": {
+            "pointer": "http://registry.npmjs.org/graceful-fs/-/graceful-fs-1.2.0.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/glob": {
+            "pointer": "http://registry.npmjs.org/glob/-/glob-3.1.16.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/glob/graceful-fs": {
+            "pointer": "http://registry.npmjs.org/graceful-fs/-/graceful-fs-1.1.14.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/glob/inherits": {
+            "pointer": "http://registry.npmjs.org/inherits/-/inherits-1.0.0.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/glob/minimatch": {
+            "pointer": "http://registry.npmjs.org/minimatch/-/minimatch-0.2.9.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/glob/minimatch/lru-cache": {
+            "pointer": "http://registry.npmjs.org/lru-cache/-/lru-cache-2.0.4.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/glob/minimatch/sigmund": {
+            "pointer": "http://registry.npmjs.org/sigmund/-/sigmund-1.0.0.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/longjohn": {
+            "pointer": "http://registry.npmjs.org/longjohn/-/longjohn-0.0.4.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/n-util": {
+            "pointer": "http://registry.npmjs.org/n-util/-/n-util-0.0.1.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/netutil": {
+            "pointer": "http://registry.npmjs.org/netutil/-/netutil-0.0.1.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/q": {
+            "pointer": "http://registry.npmjs.org/q/-/q-0.8.12.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/stack-trace": {
+            "pointer": "http://registry.npmjs.org/stack-trace/-/stack-trace-0.0.6.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/tunnel": {
+            "pointer": "http://registry.npmjs.org/tunnel/-/tunnel-0.0.2.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/waitfor": {
+            "pointer": "http://registry.npmjs.org/waitfor/-/waitfor-0.1.1.tgz"
+        },
+        "pinf-it/pinf-it-server/sm-util/wrench": {
+            "pointer": "http://registry.npmjs.org/wrench/-/wrench-1.4.4.tgz"
+        },
+        "pinf-it/sm": {
+            "pointer": "https://github.com/sourcemint/sm/commit/e99223f774a14f4a54ec2ce20e64fa1200196747"
+        }
+    }
+}

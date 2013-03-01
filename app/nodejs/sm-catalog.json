@@ -59,7 +59,7 @@
             "pointer": "https://github.com/pinf-it/pinf-it-nodejs/commit/4b0d23324830d1f37643b0f58217eddf8939eb17"
         },
         "pinf-it/pinf-it-server": {
-            "pointer": "https://github.com/pinf-it/pinf-it-server/commit/7100c8d3322042af9572617341bad64906e1075e"
+            "pointer": "https://github.com/pinf-it/pinf-it-server/commit/b7589230c82e0d8e2377f3e235a32ac9775a973c"
         },
         "pinf-it/pinf-it-server/debug": {
             "pointer": "http://registry.npmjs.org/debug/-/debug-0.7.2.tgz"

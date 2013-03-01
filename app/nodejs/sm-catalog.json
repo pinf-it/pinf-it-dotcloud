@@ -46,9 +46,6 @@
         "connect/send/range-parser": {
             "pointer": "http://registry.npmjs.org/range-parser/-/range-parser-0.0.4.tgz"
         },
-        "default-responder": {
-            "pointer": "/pinf/workspaces/github.com/pinf.it/pinf-it-dotcloud+0/app/nodejs/default"
-        },
         "github.com+cadorn+private-websites+0.1.14": {
             "pointer": "https://github.com/cadorn/private-websites/commit/f65907d1ef3658211514415a8b7e537944dc8e03"
         },
@@ -63,12 +60,6 @@
         },
         "pinf-it/pinf-it-server/debug": {
             "pointer": "http://registry.npmjs.org/debug/-/debug-0.7.2.tgz"
-        },
-        "pinf-it/pinf-it-server/github.com+pinf-it+pinf-it-test-packages+0.1.12": {
-            "pointer": "https://github.com/pinf-it/pinf-it-test-packages/commit/18f16a102da66ba0363d7659a703f3ca4b6877b4"
-        },
-        "pinf-it/pinf-it-server/github.com+pinf-it+pinf-it-test-packages+~0.1.2": {
-            "pointer": "https://github.com/pinf-it/pinf-it-test-packages/commit/6cb3ac7425641066eeff5e89668218cf92a91fe6"
         },
         "pinf-it/pinf-it-server/pinf": {
             "pointer": "http://registry.npmjs.org/pinf/-/pinf-0.2.14.tgz"

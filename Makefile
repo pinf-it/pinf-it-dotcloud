@@ -1,3 +1,3 @@
 
 install:
-	sm install --verbose --production --dir app/nodejs
+	sm install --production --dir app/nodejs

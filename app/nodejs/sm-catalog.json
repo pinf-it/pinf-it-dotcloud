@@ -49,6 +49,9 @@
         "github.com+cadorn+private-websites+0.1.14": {
             "archive": "https://github.com/cadorn/private-websites/tarball/f65907d1ef3658211514415a8b7e537944dc8e03"
         },
+        "github.com+cadorn+private-websites+0.1.16": {
+            "archive": "https://github.com/cadorn/private-websites/tarball/08eb5d451c3351d5b8c61027a9bc25a2a65a8377"
+        },
         "github.com+cadorn+private-websites+~0.1.0": {
             "archive": "https://github.com/cadorn/private-websites/tarball/dcffc3bb68b032a6a3d3f2b153ebd367cdbc3f39"
         },
@@ -56,13 +59,13 @@
             "archive": "https://github.com/pinf-it/pinf-it-nodejs/tarball/02f5c433db72f0850b76d3eee10b1ac53738383b"
         },
         "pinf-it/pinf-it-server": {
-            "archive": "https://github.com/pinf-it/pinf-it-server/tarball/7faefea9ce0250c0965eb623be9385dad1125111"
+            "archive": "https://github.com/pinf-it/pinf-it-server/tarball/23023423b52dd74240216c83e3ef1939e3d0cafc"
         },
         "pinf-it/pinf-it-server/debug": {
             "archive": "http://registry.npmjs.org/debug/-/debug-0.7.2.tgz"
         },
         "pinf-it/pinf-it-server/pinf": {
-            "archive": "http://registry.npmjs.org/pinf/-/pinf-0.2.15.tgz"
+            "archive": "https://github.com/sourcemint/sm-pinf-npm/tarball/3af9f57f9cb09209e2a3c0ff05cd052cdc1b6af8"
         },
         "pinf-it/pinf-it-server/pinf/deepmerge": {
             "archive": "http://registry.npmjs.org/deepmerge/-/deepmerge-0.2.5.tgz"
@@ -101,13 +104,13 @@
             "archive": "http://registry.npmjs.org/underscore/-/underscore-1.1.7.tgz"
         },
         "pinf-it/pinf-it-server/pinf/mappings": {
-            "archive": "http://registry.npmjs.org/mappings/-/mappings-0.2.1.tgz"
+            "archive": "https://github.com/sourcemint/sm-mappings-npm/tarball/2e293efc9b50c9ea60521cfdc811eb79ed538f2f"
         },
         "pinf-it/pinf-it-server/pinf/sm-util": {
             "archive": "http://registry.npmjs.org/sm-util/-/sm-util-0.1.11.tgz"
         },
         "pinf-it/pinf-it-server/sm-util": {
-            "archive": "https://github.com/sourcemint/sm-util/tarball/77dcfecbb9c25e7f13f0f9d8c9f010b3780af3ee"
+            "archive": "https://github.com/sourcemint/sm-util/tarball/1a7d4a9f93cac40788667c64f6357f733cab2582"
         },
         "pinf-it/pinf-it-server/sm-util/console-trace": {
             "archive": "http://registry.npmjs.org/console-trace/-/console-trace-0.2.1.tgz"
@@ -179,7 +182,7 @@
             "archive": "http://registry.npmjs.org/wrench/-/wrench-1.4.4.tgz"
         },
         "pinf-it/sm": {
-            "archive": "https://github.com/sourcemint/sm/tarball/505ca093f8833ee926b80fc24a896ce509f32a1d"
+            "archive": "https://github.com/sourcemint/sm/tarball/a30b1f364452a2c9a1d2692ddb699016ec4cd15c"
         }
     }
 }
